@@ -12,3 +12,9 @@ Il modello (file .obj, .blend, .mtl e textures) può essere scaricato cliccando 
 ![](Immagini%20del%20modello/parabola4.png)
 
 ![](Immagini%20del%20modello/ufo.png)
+
+![](Rendering/render2.png)
+
+![](Rendering/render3.png)
+
+![](Rendering/render5.png)
