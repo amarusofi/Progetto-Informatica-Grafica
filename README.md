@@ -6,3 +6,9 @@ La presentazione del progetto può essere scaricata cliccando [qui](https://gith
 Il modello (file .obj, .blend, .mtl e textures) può essere scaricato cliccando [qui](https://drive.google.com/drive/folders/1-5Gp3-PZKxHgKMHpfeqnjwnVPxnz3icx?usp=sharing).
 
 ![](Immagini%20del%20modello/parabola.png)
+
+![](Immagini%20del%20modello/parabola3.png)
+
+![](Immagini%20del%20modello/parabola4.png)
+
+![](Immagini%20del%20modello/ufo.png)
